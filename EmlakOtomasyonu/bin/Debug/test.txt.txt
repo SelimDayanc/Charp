@@ -1,0 +1,1 @@
+"Data Source=MSI;Initial Catalog=EmlakOtomasyonKonut;Integrated Security=True"
