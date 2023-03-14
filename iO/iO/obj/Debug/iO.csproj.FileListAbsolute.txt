@@ -1,0 +1,8 @@
+C:\C# Projeleri\iO\iO\obj\Debug\iO.csproj.AssemblyReference.cache
+C:\C# Projeleri\iO\iO\obj\Debug\iO.csproj.SuggestedBindingRedirects.cache
+C:\C# Projeleri\iO\iO\obj\Debug\iO.csproj.CoreCompileInputs.cache
+C:\C# Projeleri\iO\iO\bin\Debug\iO.exe.config
+C:\C# Projeleri\iO\iO\bin\Debug\iO.exe
+C:\C# Projeleri\iO\iO\bin\Debug\iO.pdb
+C:\C# Projeleri\iO\iO\obj\Debug\iO.exe
+C:\C# Projeleri\iO\iO\obj\Debug\iO.pdb

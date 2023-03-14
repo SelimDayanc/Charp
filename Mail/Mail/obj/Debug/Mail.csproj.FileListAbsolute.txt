@@ -1,0 +1,11 @@
+C:\C# Projeleri\Mail\Mail\bin\Debug\Mail.exe.config
+C:\C# Projeleri\Mail\Mail\bin\Debug\Mail.exe
+C:\C# Projeleri\Mail\Mail\bin\Debug\Mail.pdb
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.Form1.resources
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.exe
+C:\C# Projeleri\Mail\Mail\obj\Debug\Mail.pdb
